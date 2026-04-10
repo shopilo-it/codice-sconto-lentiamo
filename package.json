@@ -1,0 +1,22 @@
+{
+  "name": "codice-sconto-lentiamo",
+  "version": "1.0.0",
+  "description": "Recupero automatico di codici sconto Lentiamo da shopilo.it",
+  "main": "index.js",
+  "keywords": [
+    "codice-sconto",
+    "codice-sconto-lentiamo",
+    "voucher-lentiamo",
+    "coupon-lentiamo",
+    "sconti",
+    "shopilo",
+    "coupon"
+  ],
+  "author": "shopilo-it",
+  "license": "MIT",
+  "homepage": "https://shopilo.it/negozi/lentiamo.it",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-it/codice-sconto-lentiamo.git"
+  }
+}
